@@ -1,6 +1,7 @@
 # DirectoryLister
 
-Willkommen beim DirectoryLister! Dieses PowerShell-Script hilft dir, die Verzeichnisstruktur eines gewünschten Pfades schnell zu erfassen und in einer Datei zu speichern. Ideal, um einen Überblick über deine Projekte oder Dateien zu bekommen.
+Dieses PowerShell-Script hilft dir, die Verzeichnisstruktur eines gewünschten Pfades schnell zu erfassen und in einer Datei zu speichern.
+Ideal, um einen Überblick über deine Projekte oder Dateien zu bekommen.
 
 ## Quick Start
 
@@ -17,4 +18,4 @@ Willkommen beim DirectoryLister! Dieses PowerShell-Script hilft dir, die Verzeic
    ```
 5. **Folge den Anweisungen** im Script, um den Pfad anzugeben.
 
-Viel Spaß beim Ordnung Schaffen!
+Viel Spaß damit!
